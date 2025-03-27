@@ -6,7 +6,7 @@ import {
   FiClock,
   FiUsers,
 } from "react-icons/fi";
-import EuropeanTour from "./EuropeanTour";
+// import EuropeanTour from "./EuropeanTour";
 import EuropeanTourPackage from "./EuropeanTourPackage";
 // import Navbar from './Navbar';
 // import Footer from './Footer';
