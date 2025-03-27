@@ -3,7 +3,7 @@ import { lazy, Suspense } from "react";
 import Navbar from "../components/Navbar";
 import Loader from "../components/Loader";
 import ErrorBoundary from "../components/ErrorBoundary";
-import Footer from "../components/Footer.JSX";
+import Footer from "../components/Footer.jsx";
 // import ErrorBoundary from "./ErrorBoundary";
 
 // Lazy load all page components
